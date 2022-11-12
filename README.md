@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohamedHaarishSherieff
 - 👀 I’m interested in ...Artificial Intelligence and Machine Learning 
 - 🌱 I’m currently learning ...Artificial Intelligence and Machine Learning 
-- 💞️ I’m looking to collaborate on ...Ml Engineers
+- 💞️ I’m looking to collaborate with ...Ml Engineers
 - 📫 How to reach me ...insta-"haary_530"
 
 <!---
