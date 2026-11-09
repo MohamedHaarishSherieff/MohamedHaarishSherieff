@@ -18,7 +18,10 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://ai-judge-gamma.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Live_App-AI_Judge-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
+      <img src="https://img.shields.io/badge/Live_App-AI_Judge-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
+    </a>
+    <a href="https://nexovionpharma.com" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Site-Nexovion_Pharma-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Nexovion Pharma" />
     </a>
     <a href="https://github.com/MohamedHaarishSherieff?tab=repositories">
       <img src="https://img.shields.io/badge/Public_Repos-9-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
@@ -44,7 +47,7 @@ I focus on building practical applications using Machine Learning, Deep Learning
 
 ---
 
-### 🚀 Public Repositories & Real Projects
+### 🚀 Featured Projects & Systems
 
 <table>
   <tr>
@@ -56,8 +59,8 @@ I focus on building practical applications using Machine Learning, Deep Learning
       </p>
       <p>Autonomous multimodal digital courtroom platform where AI presides over legal disputes, conducts adversarial litigation, and inspects evidence under Indian statutory jurisprudence.</p>
       <ul>
-        <li>Utilizes Meta open-weights AI models for courtroom litigation and forensic document verification.</li>
-        <li>Built with a modern Next.js frontend and deployed live on Vercel.</li>
+        <li>Utilizes Meta open-weights AI models for autonomous courtroom litigation and forensic document verification.</li>
+        <li>Built with a modern Next.js frontend, TypeScript, and deployed live on Vercel.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -65,6 +68,25 @@ I focus on building practical applications using Machine Learning, Deep Learning
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🌐 <a href="https://nexovionpharma.com">Nexovion Pharma</a></h3>
+      <p align="left">
+        <a href="https://nexovionpharma.com"><img src="https://img.shields.io/badge/Live_Site-nexovionpharma.com-000000?style=flat-square&logo=firefox&logoColor=white" alt="Live Site" /></a>
+        <img src="https://img.shields.io/badge/Deployment-Vercel-black?style=flat-square&logo=vercel" alt="Deployment" />
+      </p>
+      <p>High-performance production commercial website built for an active pharmaceutical business, live at <a href="https://nexovionpharma.com">nexovionpharma.com</a>.</p>
+      <ul>
+        <li>Dynamic routing architecture showcasing <strong>47+ medical formulations</strong> across 5 therapeutic divisions.</li>
+        <li>Full SEO optimization, Open Graph integration, responsive navigation, and performance-optimized image rendering.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="left">🏆 <a href="https://github.com/MohamedHaarishSherieff/SafeRouteAi">SafeRouteAi</a></h3>
       <p align="left">
@@ -82,8 +104,6 @@ I focus on building practical applications using Machine Learning, Deep Learning
         <img src="https://img.shields.io/badge/Geospatial-2E7D32?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="left">📖 <a href="https://github.com/MohamedHaarishSherieff/Biling_Dict">Biling_Dict</a></h3>
       <p align="left">
@@ -102,49 +122,24 @@ I focus on building practical applications using Machine Learning, Deep Learning
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🩸 <a href="https://github.com/MohamedHaarishSherieff/VcareBlood">VcareBlood</a></h3>
-      <p align="left">
-        <a href="https://github.com/MohamedHaarishSherieff/VcareBlood"><img src="https://img.shields.io/badge/Repo-VcareBlood-black?style=flat-square&logo=github" alt="Repo" /></a>
-        <img src="https://img.shields.io/badge/Mobile-React_Native-blue?style=flat-square&logo=react" alt="Mobile" />
-      </p>
-      <p>Mobile application designed to connect blood donors and recipients across states in real time.</p>
-      <ul>
-        <li>Built with React Native and JavaScript.</li>
-        <li>Integrated Firebase Firestore for user profiles, real-time donor search, and cloud data management.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      </p>
-    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🖼️ <a href="https://github.com/MohamedHaarishSherieff/cifar-10">cifar-10</a></h3>
+    <td colspan="2" valign="top">
+      <h3 align="left">🩸 <a href="https://github.com/MohamedHaarishSherieff/VcareBlood">VcareBlood — Mobile Blood Donation Platform</a></h3>
       <p align="left">
-        <a href="https://github.com/MohamedHaarishSherieff/cifar-10"><img src="https://img.shields.io/badge/Repo-cifar--10-black?style=flat-square&logo=github" alt="Repo" /></a>
-        <img src="https://img.shields.io/badge/Deep_Learning-CNN-FF6F00?style=flat-square&logo=tensorflow" alt="DL" />
+        <a href="https://github.com/MohamedHaarishSherieff/VcareBlood"><img src="https://img.shields.io/badge/Repo-VcareBlood-black?style=flat-square&logo=github" alt="Repo" /></a>
+        <img src="https://img.shields.io/badge/Platform-Mobile_App-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Mobile" />
+        <img src="https://img.shields.io/badge/Backend-Firebase_Firestore-FFA611?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
       </p>
-      <p>Convolutional Neural Network (CNN) multi-class image classification model trained on the CIFAR-10 dataset using TensorFlow and Keras.</p>
+      <p>Production-ready mobile application designed to connect blood donors and recipients across Indian states in real time.</p>
+      <ul>
+        <li>Built with React Native and JavaScript with cross-state donor discovery and responsive UI components.</li>
+        <li>Integrated Firebase Firestore as a real-time NoSQL data pipeline for user authentication, donor profiles, and live requests.</li>
+      </ul>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">📊 <a href="https://github.com/MohamedHaarishSherieff/diabetes_sdp">diabetes_sdp</a> & <a href="https://github.com/MohamedHaarishSherieff/My-Journey">My-Journey</a></h3>
-      <p align="left">
-        <a href="https://github.com/MohamedHaarishSherieff/diabetes_sdp"><img src="https://img.shields.io/badge/Repo-diabetes__sdp-black?style=flat-square&logo=github" alt="Repo" /></a>
-        <a href="https://github.com/MohamedHaarishSherieff/My-Journey"><img src="https://img.shields.io/badge/Repo-My--Journey-black?style=flat-square&logo=github" alt="Repo" /></a>
-      </p>
-      <p>Predictive healthcare machine learning project for diabetes risk assessment, alongside a structured notebook log documenting my progression from Python fundamentals to machine learning and deep learning pipelines.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       </p>
     </td>
   </tr>
@@ -205,5 +200,9 @@ I focus on building practical applications using Machine Learning, Deep Learning
   &nbsp;&nbsp;
   <a href="https://ai-judge-gamma.vercel.app">
     <img src="https://img.shields.io/badge/Live_App-AI_Judge-10b981?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nexovionpharma.com">
+    <img src="https://img.shields.io/badge/Live_Site-Nexovion_Pharma-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Nexovion Pharma" />
   </a>
 </div>
