@@ -170,20 +170,6 @@ I focus on building practical applications using Machine Learning, Deep Learning
 - 🗣️ **Natural Language Processing (NLP) in TensorFlow** &bull; *DeepLearning.AI* (Coursera &bull; ID: `G4QV529KE4Q2`)
 - 🤖 **Introduction to TensorFlow for AI, ML & Deep Learning** &bull; *DeepLearning.AI* (Coursera &bull; ID: `2LJSXKDBTDRB8`)
 - 📊 **Industrial Training in Artificial Intelligence & Machine Learning** &bull; *Inspire Softtech Solutions* (`ISS-VELS-VAC-BSC-004-020`)
-- 🐍 **Python for Data Science** &bull; *Inspire Softtech Solutions* (`ISS-VAC-FA-10-2023-37`)
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedHaarishSherieff&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHaarishSherieff&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedHaarishSherieff&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="97%" />
-</div>
 
 ---
 
