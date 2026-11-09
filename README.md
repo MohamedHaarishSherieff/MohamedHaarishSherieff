@@ -24,7 +24,7 @@
       <img src="https://img.shields.io/badge/Live_Site-Nexovion_Pharma-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Nexovion Pharma" />
     </a>
     <a href="https://github.com/MohamedHaarishSherieff?tab=repositories">
-      <img src="https://img.shields.io/badge/Public_Repos-9-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
+      <img src="https://img.shields.io/badge/Public_Repos-10-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
     </a>
   </p>
 
@@ -88,6 +88,26 @@ I focus on building practical applications using Machine Learning, Deep Learning
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="left">🤟 <a href="https://github.com/MohamedHaarishSherieff/Sign-Language-Detection-ASL-">ASL Real-Time Translator</a></h3>
+      <p align="left">
+        <a href="https://github.com/MohamedHaarishSherieff/Sign-Language-Detection-ASL-"><img src="https://img.shields.io/badge/Repo-Sign--Language--Detection--ASL--black?style=flat-square&logo=github" alt="Repo" /></a>
+        <img src="https://img.shields.io/badge/Vision-MediaPipe_%26_OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="Vision" />
+        <img src="https://img.shields.io/badge/Model-TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Model" />
+      </p>
+      <p>Real-time American Sign Language (ASL) finger-spelling (A–Z) detection and translation system powered by Computer Vision and Deep Learning.</p>
+      <ul>
+        <li>Classifies 26 ASL alphabet signs in real-time from webcam feeds using MediaPipe hand tracking and high-speed TFLite/Keras neural networks.</li>
+        <li>Aggregates letters into words with automated grammar and spell-checking to generate coherent English sentences in real time.</li>
+        <li>Built with a retro-arcade Neubrutalism UI powered by a lightweight Flask backend.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="left">🏆 <a href="https://github.com/MohamedHaarishSherieff/SafeRouteAi">SafeRouteAi</a></h3>
       <p align="left">
         <a href="https://github.com/MohamedHaarishSherieff/SafeRouteAi"><img src="https://img.shields.io/badge/Repo-SafeRouteAi-black?style=flat-square&logo=github" alt="Repo" /></a>
@@ -104,6 +124,8 @@ I focus on building practical applications using Machine Learning, Deep Learning
         <img src="https://img.shields.io/badge/Geospatial-2E7D32?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="left">📖 <a href="https://github.com/MohamedHaarishSherieff/Biling_Dict">Biling_Dict</a></h3>
       <p align="left">
@@ -122,10 +144,8 @@ I focus on building practical applications using Machine Learning, Deep Learning
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="left">🩸 <a href="https://github.com/MohamedHaarishSherieff/VcareBlood">VcareBlood — Mobile Blood Donation Platform</a></h3>
+    <td width="50%" valign="top">
+      <h3 align="left">🩸 <a href="https://github.com/MohamedHaarishSherieff/VcareBlood">VcareBlood</a></h3>
       <p align="left">
         <a href="https://github.com/MohamedHaarishSherieff/VcareBlood"><img src="https://img.shields.io/badge/Repo-VcareBlood-black?style=flat-square&logo=github" alt="Repo" /></a>
         <img src="https://img.shields.io/badge/Platform-Mobile_App-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Mobile" />
@@ -155,7 +175,7 @@ I focus on building practical applications using Machine Learning, Deep Learning
 | :--- | :--- |
 | **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Machine Learning & Deep Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) |
-| **Web & Mobile Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| **Web & Mobile Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
 | **Cloud & Backend** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=flat-square&logo=firebase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 | **Developer Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white) |
 
